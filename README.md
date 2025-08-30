@@ -1,0 +1,1 @@
+This repository contains a collection of Python scripts and notebooks for applying geostatistical methods to geospatial and geoscience data. Geostatistics goes beyond traditional statistics by incorporating the spatial location of data points, allowing us to model and predict spatially-dependent phenomena like mineral grades, porosity in reservoirs, or soil contamination.
